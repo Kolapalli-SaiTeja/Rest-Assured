@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Lycan/IdeaProjects/RestAPI">
+        <classes>
+            <class name="Test.Crud.DELETE.NONBDDStyleDELETE">
+                <methods>
+                    <include name="PositiveDelete"/>
+                </methods>
+            </class>
+            <class name="Test.Crud.GET.GETnonBDDTestNG">
+                <methods>
+                    <include name="GETallPositiveBookings"/>
+                </methods>
+            </class>
+            <class name="Test.Crud.POST.NonBDDStylePOST">
+                <methods>
+                    <include name="positivePOST"/>
+                </methods>
+            </class>
+            <class name="Test.Crud.PUT.NonBDDStylePUT">
+                <methods>
+                    <include name="PostivePUT"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Lycan/IdeaProjects/RestAPI">
+        <classes>
+            <class name="TestNG.Api_chaining">
+
+            </class>
+
+            <class name="TestNG.Api_chaining">
+                <methods>
+                    <include name="PostFunction"/>
+                </methods>
+            </class>
+
+            <class name="TestNG.Api_chaining">
+
+                <methods>
+                    <include name="TokenPost"/>
+                </methods>
+            </class>
+
+            <class name="TestNG.Api_chaining">
+
+                <methods>
+                    <include name="PUTFunction"/>
+                </methods>
+            </class>
+
+            <class name="TestNG.Api_chaining">
+
+                <methods>
+                    <include name="GetFunction"/>
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>

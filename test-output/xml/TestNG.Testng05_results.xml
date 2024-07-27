@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Lycan/IdeaProjects/RestAPI"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.007">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo"
+                time="0.007"
+                classname="TestNG.Testng05">
+            </testcase>
+</testsuite>

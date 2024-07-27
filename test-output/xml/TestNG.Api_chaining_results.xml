@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Lycan/IdeaProjects/RestAPI"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.597">
+    <properties></properties>
+
+
+
+            <testcase
+                name="PUTFunction"
+                time="1.457"
+                classname="TestNG.Api_chaining">
+            </testcase>
+            <testcase
+                name="PostFunction"
+                time="14.563"
+                classname="TestNG.Api_chaining">
+            </testcase>
+            <testcase
+                name="GetFunction"
+                time="1.245"
+                classname="TestNG.Api_chaining">
+            </testcase>
+            <testcase
+                name="TokenPost"
+                time="1.332"
+                classname="TestNG.Api_chaining">
+            </testcase>
+</testsuite>
