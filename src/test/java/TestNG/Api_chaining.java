@@ -33,8 +33,7 @@ public class Api_chaining {
 
     int id;
 
-    String token ;
-
+    String token;
 
 
     @Test
@@ -62,9 +61,8 @@ public class Api_chaining {
     }
 
 
-
     @Test(dependsOnMethods = {"PostFunction"})
-    public void TokenPost(){
+    public void TokenPost() {
 
 
         String info = " {\n" +
@@ -81,16 +79,15 @@ public class Api_chaining {
         requestSpecification.contentType(ContentType.JSON).log().all();
 
 
-
         response = requestSpecification.when().post();
 
 
         response.then().log().all();
 
 
-        token =  response.path("token");
+        token = response.path("token");
 
-        System.out.println("The token id is :" +token);
+        System.out.println("The token id is :" + token);
 
     }
 
@@ -117,7 +114,7 @@ public class Api_chaining {
 
         requestSpecification.contentType(ContentType.JSON);
         requestSpecification.body(body);
-        requestSpecification.cookie("token",token);
+        requestSpecification.cookie("token", token);
 
         response = requestSpecification.when().put();
 
@@ -131,8 +128,7 @@ public class Api_chaining {
 
         Assert.assertEquals("seetha", "seetha");
 
-       String fs =  response.path("firstname");
-
+        String fs = response.path("firstname");
 
 
         System.out.println(fs);
@@ -164,11 +160,23 @@ public class Api_chaining {
     }
 
 
+    @Test(dependsOnMethods = {"GetFunction"})
+    public void DeleteFunction() {
 
 
+        requestSpecification = RestAssured.given();
+
+        requestSpecification.baseUri("https://restful-booker.herokuapp.com");
+
+        requestSpecification.basePath("/booking/" + id);
+
+        response = requestSpecification.when().get();
 
 
+        ValidatableResponse v1 = response.then().log().all();
+
+        v1.statusCode(200);
 
 
-
+    }
 }

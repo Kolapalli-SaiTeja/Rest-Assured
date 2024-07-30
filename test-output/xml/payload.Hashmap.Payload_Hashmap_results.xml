@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAPI"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.617">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPostReq"
+                time="14.617"
+                classname="payload.Hashmap.Payload_Hashmap">
+            </testcase>
+</testsuite>

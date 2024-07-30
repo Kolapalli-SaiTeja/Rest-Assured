@@ -2,6 +2,8 @@ package Test.Crud.GET;
 
 import io.restassured.RestAssured;
 
+import static org.hamcrest.Matchers.equalTo;
+
 public class BDDSTYLE_GET {
 
 
@@ -13,12 +15,12 @@ public class BDDSTYLE_GET {
         // base path : /api/users/2
 
 
-        RestAssured.given().baseUri("https://reqres.in/").basePath("/api/users/2")
+        RestAssured.given()
 
 
-                .when().get("https://reqres.in/api/users/2")
+                .when().get("https://reqres.in/api/users?page=2")
 
-                .then().log().all().statusCode(200);
+                .then().body("page", equalTo(2)).log().all();
 
 
     }
