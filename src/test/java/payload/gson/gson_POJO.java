@@ -76,6 +76,7 @@ public class gson_POJO {
 
         String jsonemp = gson.toJson(bookings);
 
+
         System.out.println(jsonemp);
 
 

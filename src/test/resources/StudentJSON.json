@@ -1,0 +1,3914 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "book": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "imageLink": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "pages": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "author",
+            "country",
+            "imageLink",
+            "language",
+            "link",
+            "pages",
+            "title",
+            "year"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "book"
+  ]
+}

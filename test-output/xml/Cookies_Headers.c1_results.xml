@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAPI"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.106">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Header"
+                time="2.106"
+                classname="Cookies_Headers.c1">
+            </testcase>
+</testsuite>

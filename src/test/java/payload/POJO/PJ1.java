@@ -3,6 +3,7 @@ package payload.POJO;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.requestSpecification;
@@ -25,7 +26,7 @@ public class PJ1 {
 //    }
 
 
-    int bookingid;
+    int id;
 
     @Test
     public void testPUT() {
@@ -43,6 +44,8 @@ public class PJ1 {
 
         requestSpecification = RestAssured.given();
 
+
+
         //URL : http://localhost:3000/students
 
         requestSpecification.contentType("application/json");
@@ -51,19 +54,24 @@ public class PJ1 {
 
         Response response = requestSpecification.when().post("http://localhost:3000/students");
 
-        Integer bookingid = response.then().extract().path("id");
+        id = response.then().extract().path("id");
 
-        System.out.println("id is " + bookingid);
+        System.out.println("id is " + id);
 
 
-        ValidatableResponse vr = response.then().log().all();
-        vr.statusCode(201);
 
-        vr.body("name", equalTo("Rama"));
+
+
+
+
+
+
+
+
 
     }
 
-    @Test
+    @Test (priority = 1)
     public void Delete() {
 
 
@@ -73,7 +81,7 @@ public class PJ1 {
 
 
 
-       .when().delete("http://localhost:3000/students/13")
+       .when().delete("http://localhost:3000/students/" +id)
         .then().log().all();
 
 

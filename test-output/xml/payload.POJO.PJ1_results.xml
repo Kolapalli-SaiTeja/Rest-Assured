@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="RestAPI"
-           tests="1"
+           tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="1.290">
+           time="2.086">
     <properties></properties>
 
 
 
             <testcase
                 name="Delete"
-                time="1.290"
+                time="0.079"
+                classname="payload.POJO.PJ1">
+            </testcase>
+            <testcase
+                name="testPUT"
+                time="2.007"
                 classname="payload.POJO.PJ1">
             </testcase>
 </testsuite>
